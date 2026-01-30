@@ -13,7 +13,9 @@ Animated charts with counting numbers and bar graphs
 
 ### Kinetic Typography
 Quote animation with multiple text effects
-![Kinetic Typography](docs/assets/kinetic-typography.gif)
+
+<img src="docs/assets/kinetic-typography.gif" alt="Kinetic Typography" width="480" align="left">
+<br clear="left">
 
 ### Product Showcase
 Feature list with animated checkmarks and progress indicators
