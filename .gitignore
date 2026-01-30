@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+out/
+dist/
+build/
+
+# Remotion
+.remotion/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# AI/Agent configs
+.agent/
+.agents/
+.claude/
+.codex/
+.continue/
+.cursor/
+.gemini/
+.goose/
+.kiro/
+.opencode/
+.windsurf/
+skills/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache
+.cache/
+*.tsbuildinfo
+
+# Local files
+.ignore/
+
+# Docs - exclude non-essential files
+docs/*.txt
+docs/*.mhtml
